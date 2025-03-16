@@ -1,0 +1,13 @@
+.profile{
+    display:grid;
+    line-height: 30px;
+}
+.Button{
+    padding-left: 70%;
+    padding-top: 50%;
+}
+.customise{
+    width: 325px;
+    z-index: 2;
+    box-shadow: 12px;
+}
